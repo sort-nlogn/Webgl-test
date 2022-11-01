@@ -1,3 +1,3 @@
 # Webgl-test
 Webgl minimal example with shaders + rendering fascinating torus
-![3adCECv8V5](https://user-images.githubusercontent.com/74429165/199314453-f6490a4b-5259-45a9-9c01-1cd5b761aa89.gif)
+![5iSUcHH4W9](https://user-images.githubusercontent.com/74429165/199315098-b854b094-f3d9-47a1-b8c8-e984b754db79.gif)
